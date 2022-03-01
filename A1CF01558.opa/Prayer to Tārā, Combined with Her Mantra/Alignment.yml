@@ -1,0 +1,40 @@
+segment_sources:
+  P6FF6F644:
+    type: origin_type
+    relation: translation
+    language: en
+  PEF2A6593:
+    type: origin_type
+    relation: translation
+    language: de
+  P36D6FCCF:
+    type: origin_type
+    relation: translation
+    language: es
+  PDE5D3B59:
+    type: origin_type
+    relation: translation
+    language: fr
+  P87989A85:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a1784dcfdf164063abedc59adee8b5a9:
+    P6FF6F644: 5e23d94c6d0d457baa2d03bf70b10db0
+    PEF2A6593: 72313d38a74746fb8bec2d6a2d2c7ff9
+    P36D6FCCF: 55b5fad896934bcaa369a5005664d0ca
+    PDE5D3B59: e8cbc48168e747838ffc66ce18826d84
+    P87989A85: 39697cef4cd24727b7f2d36602fd2ae8
+  422d7e20175845eca57941d9c05e85c8:
+    P6FF6F644: 25d10eb22f494512bf5b09822fc2d4cc
+    PEF2A6593: f23ae9548d2949ca86647cc6579a2c1f
+    P36D6FCCF: 710fd71ea0814e408a1304524db84526
+    PDE5D3B59: b4473fa25567406888b18c445fc93723
+    P87989A85: 65cd22b77df04986bd798b280ecb0a34
+  f52dc5d411e64a5fa3b24c288b3b96e9:
+    P6FF6F644: 46c038a87aea4701b76a18bee753099d
+    PEF2A6593: b1d565739f1b41429b0fb2afd77156d5
+    P36D6FCCF: 87aa50d971334ff8a179f22073981b1d
+    PDE5D3B59: 90c794d4f65c4225b9f89f8360f1e572
+    P87989A85: 7bbb29a2200f462a866468cb2fb03e47

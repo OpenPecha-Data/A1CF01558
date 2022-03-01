@@ -1,0 +1,19 @@
+segment_sources:
+  P6FF6F644:
+    type: origin_type
+    relation: translation
+    language: en
+  P87989A85:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  799e22420f3c4ab787576e1dda4b5d2f:
+    P6FF6F644: 4395ac45c7dc41b1a04d6c1909347041
+    P87989A85: 8fdb81fe29344b2cacb30b890a8e8660
+  26213cb002bb497d94f597fbfd2ef33a:
+    P6FF6F644: 535f3b138eb1412a9fdd84939bf2c6cc
+    P87989A85: 17df9bcfc5a845e7ac60dbd09fd9291b
+  188b06bcabeb4d0a8ce1c851a5162ab5:
+    P6FF6F644: b4b563f0e3a54a91989a889c93f8755f
+    P87989A85: 56dee5ce057f48b18e447eaca18d6e5f
